@@ -26,3 +26,5 @@ https://www.linkedin.com/company/littradex
 
 REDDIT
 https://www.reddit.com/r/Littradex
+
+Pull request https://github.com/consenlabs/token-profile/pull/5022
