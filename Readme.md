@@ -1,5 +1,7 @@
 # Lte-Profile-Announcement
 
+Pull request https://github.com/consenlabs/token-profile/pull/5022
+
 ## Project background:
 
 Official announcement: https://littradex.com/
@@ -28,5 +30,3 @@ https://www.linkedin.com/company/littradex
 
 REDDIT
 https://www.reddit.com/r/Littradex
-
-Pull request https://github.com/consenlabs/token-profile/pull/5022
